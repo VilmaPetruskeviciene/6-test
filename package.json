@@ -1,15 +1,23 @@
 {
-  "name": "6-test",
+  "name": "6-2-test",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "dead-server --port=3011 --host=localhost",
+    "dev": "dead-server --port=3006 --host=localhost",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VilmaPetruskeviciene/6-test.git"
   },
   "keywords": [],
   "author": "vilma",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VilmaPetruskeviciene/6-test/issues"
+  },
+  "homepage": "https://github.com/VilmaPetruskeviciene/6-test#readme",
   "devDependencies": {
     "dead-server": "^1.0.6"
   }
